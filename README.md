@@ -16,7 +16,7 @@ The GPT-2 model used in this web application is an open-source language model pr
 
 The web application is deployed using Streamlit Sharing, a platform provided by Streamlit for deploying Streamlit apps. You can access the deployed application via the following link:
 
-
+https://medinardaniel-streamlit-huggingface-app-w3bhmd.streamlit.app/
 
 ## Usage
 
