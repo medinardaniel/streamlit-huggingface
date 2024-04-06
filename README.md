@@ -6,6 +6,8 @@ This is a simple web application built with Streamlit that demonstrates text gen
 
 The web application allows users to input text and generates additional text based on the input using the GPT-2 model. The generated text is then displayed back to the user.
 
+![Screenshot](streamlit-hf-ss.png)
+
 ## Connection to Open Source LLM
 
 The GPT-2 model used in this web application is an open-source language model provided by Hugging Face through their Transformers library. The model has been fine-tuned on a large corpus of text and can generate coherent and contextually relevant text based on user input.
@@ -14,7 +16,7 @@ The GPT-2 model used in this web application is an open-source language model pr
 
 The web application is deployed using Streamlit Sharing, a platform provided by Streamlit for deploying Streamlit apps. You can access the deployed application via the following link:
 
-![Screenshot](streamlit-hf-ss.png)
+
 
 ## Usage
 
