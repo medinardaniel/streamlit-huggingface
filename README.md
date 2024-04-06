@@ -14,7 +14,7 @@ The GPT-2 model used in this web application is an open-source language model pr
 
 The web application is deployed using Streamlit Sharing, a platform provided by Streamlit for deploying Streamlit apps. You can access the deployed application via the following link:
 
-[Text Generation Web App](streamlit-hf-ss.png)
+![Screenshot](streamlit-hf-ss.png)
 
 ## Usage
 
